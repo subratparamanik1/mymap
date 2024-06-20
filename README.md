@@ -1,2 +1,2 @@
-Interactive live map application
-applicatin live at :- 
+Interactive live map
+applicatin live at :- https://subratparamanik1.github.io/mymap/
